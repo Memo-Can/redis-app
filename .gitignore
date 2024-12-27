@@ -1,0 +1,5 @@
+**/bin
+**/debug
+.vscode
+appsettings.json
+appsettings.Development.json
